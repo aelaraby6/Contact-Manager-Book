@@ -1,0 +1,28 @@
+﻿  CodeWithArrayDS.cpp
+  ContactsBook.cpp
+D:\college\second year\data structures\projects\project-one\CodeWithArrayDS\CodeWithArrayDS\ContactsBook.cpp(164,22): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\college\second year\data structures\projects\project-one\CodeWithArrayDS\CodeWithArrayDS\ContactsBook.cpp(166,22): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\college\second year\data structures\projects\project-one\CodeWithArrayDS\CodeWithArrayDS\ContactsBook.cpp(179,22): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\college\second year\data structures\projects\project-one\CodeWithArrayDS\CodeWithArrayDS\ContactsBook.cpp(181,22): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\college\second year\data structures\projects\project-one\CodeWithArrayDS\CodeWithArrayDS\ContactsBook.cpp(221,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\college\second year\data structures\projects\project-one\CodeWithArrayDS\CodeWithArrayDS\ContactsBook.cpp(222,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\college\second year\data structures\projects\project-one\CodeWithArrayDS\CodeWithArrayDS\ContactsBook.cpp(226,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\college\second year\data structures\projects\project-one\CodeWithArrayDS\CodeWithArrayDS\ContactsBook.cpp(227,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\college\second year\data structures\projects\project-one\CodeWithArrayDS\CodeWithArrayDS\ContactsBook.cpp(227,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\college\second year\data structures\projects\project-one\CodeWithArrayDS\CodeWithArrayDS\ContactsBook.cpp(228,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\college\second year\data structures\projects\project-one\CodeWithArrayDS\CodeWithArrayDS\ContactsBook.cpp(233,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\college\second year\data structures\projects\project-one\CodeWithArrayDS\CodeWithArrayDS\ContactsBook.cpp(234,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\college\second year\data structures\projects\project-one\CodeWithArrayDS\CodeWithArrayDS\ContactsBook.cpp(234,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\college\second year\data structures\projects\project-one\CodeWithArrayDS\CodeWithArrayDS\ContactsBook.cpp(235,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\college\second year\data structures\projects\project-one\CodeWithArrayDS\CodeWithArrayDS\ContactsBook.cpp(239,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\college\second year\data structures\projects\project-one\CodeWithArrayDS\CodeWithArrayDS\ContactsBook.cpp(240,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\college\second year\data structures\projects\project-one\CodeWithArrayDS\CodeWithArrayDS\ContactsBook.cpp(242,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\college\second year\data structures\projects\project-one\CodeWithArrayDS\CodeWithArrayDS\ContactsBook.cpp(243,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\college\second year\data structures\projects\project-one\CodeWithArrayDS\CodeWithArrayDS\ContactsBook.cpp(244,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\college\second year\data structures\projects\project-one\CodeWithArrayDS\CodeWithArrayDS\ContactsBook.cpp(245,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\college\second year\data structures\projects\project-one\CodeWithArrayDS\CodeWithArrayDS\DynamicArray.h(120,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\college\second year\data structures\projects\project-one\CodeWithArrayDS\CodeWithArrayDS\DynamicArray.h(118,11): message : while compiling class template member function 'void DynamicArray<Person>::reverse(void)'
+D:\college\second year\data structures\projects\project-one\CodeWithArrayDS\CodeWithArrayDS\ContactsBook.cpp(202,21): message : see the first reference to 'DynamicArray<Person>::reverse' in 'ContactsBook::ReverseContacts'
+D:\college\second year\data structures\projects\project-one\CodeWithArrayDS\CodeWithArrayDS\ContactsBook.h(9,22): message : see reference to class template instantiation 'DynamicArray<Person>' being compiled
+  Generating Code...
+  CodeWithArrayDS.vcxproj -> D:\college\second year\data structures\projects\project-one\CodeWithArrayDS\x64\Debug\CodeWithArrayDS.exe

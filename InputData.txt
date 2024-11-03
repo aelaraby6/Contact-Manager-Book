@@ -1,0 +1,13 @@
+First Name: 1
+Last Name: 1
+Phone Numbers: 1
+Emails: 1
+Classification: 1
+Favourite: Yes
+--- Address Info --- 
+StreetNumber: 1
+StreetName: 1
+Town: 1
+State: 1
+
+----------------------

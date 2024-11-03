@@ -1,0 +1,52 @@
+First Name: eman
+Last Name: ali
+Phone Numbers: 66
+Emails: 55
+Classification: work
+Favourite: Yes
+--- Address Info --- 
+StreetNumber: 22
+StreetName: 33
+Town: 55
+State: 55
+
+----------------------
+First Name: mahoud
+Last Name: abdo
+Phone Numbers: 5
+Emails: 6
+Classification: other
+Favourite: No
+--- Address Info --- 
+StreetNumber: 5
+StreetName: bb
+Town: bb
+State: bb
+
+----------------------
+First Name: joe
+Last Name: ali
+Phone Numbers: 4
+Emails: 4
+Classification: work
+Favourite: No
+--- Address Info --- 
+StreetNumber: 55
+StreetName: ff
+Town: ff
+State: ff
+
+----------------------
+First Name: abdo
+Last Name: amr
+Phone Numbers: 33, 33
+Emails: 55, 55
+Classification: work
+Favourite: Yes
+--- Address Info --- 
+StreetNumber: dd
+StreetName: dd
+Town: dd
+State: dd
+
+----------------------
